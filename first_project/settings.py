@@ -25,7 +25,7 @@ SECRET_KEY = 'qo@mc-bm*bt$ehci%8g02+6*dp1=1svgm^o$(23gr$1=yq(9w+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'sytrys59.pythonanywhere.com']
 
 
 # Application definition
